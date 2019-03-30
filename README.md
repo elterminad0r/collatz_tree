@@ -3,7 +3,7 @@ Inspired by the Collatz conjecture. From the conjecture, one might be able to bu
 
 Here is the Processing sketch in action:
 
-![Screenshot](https://github.com/elterminad0r/collatz_tree/blob/master/screenshot.png)
+![Screenshot](https://github.com/goedel-gang/collatz_tree/blob/master/screenshot.png)
 
 And this is a sample of `CollatzTree.py`, to a depth of 20 with one extra space between branches (`$ python CollatzTree.py -m 20 -s 2`)
 
