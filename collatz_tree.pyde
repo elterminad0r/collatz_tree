@@ -1,3 +1,5 @@
+# vim: ft=python
+
 import random as random_
 
 BRANCH_SIZE = 25
